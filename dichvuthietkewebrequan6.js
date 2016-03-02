@@ -1,5 +1,5 @@
-//please contact me giaiphapthuonghieu.org@gmail.com
-//website http://giaiphapthuonghieu.vn or http://faceseo.vn
+//please contact me tonyking.kthd2@gmail.com
+//website http://thietkewebre.info
 
 (function($) {
     $.fn.linhnguyen = function(options) {        
