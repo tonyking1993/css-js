@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://thietkewebre.info/thiet-ke-web-re-tai-quan-6' target='_blank'><img src='https://lh3.googleusercontent.com/proxy/fgvt2mSUkNgFOVCBFVlznA3GiDp4u5zFL19D3KmIUOS800wuqkncpP7pDDHhpbYIItf3ublxH2nKuvjBI9GdyXInVkA=w346-h338-p' width='500px'/>Thiết kế web giá rẻ tại tphcm</a>. Đã có nhiều mẫu website chuẩn SEO. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://thietkewebre.info/thiet-ke-web-re-tai-quan-6' target='_blank'><img src='https://lh3.googleusercontent.com/proxy/fgvt2mSUkNgFOVCBFVlznA3GiDp4u5zFL19D3KmIUOS800wuqkncpP7pDDHhpbYIItf3ublxH2nKuvjBI9GdyXInVkA=w346-h338-p' width='500px'/>Thiết kế web rẻ</a>. Đã có nhiều mẫu website chuẩn SEO. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
