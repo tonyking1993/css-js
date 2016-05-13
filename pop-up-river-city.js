@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://river-city-quan7.com/' target='_blank'><img src='https://lh3.googleusercontent.com/-THm_kTsUSaI/VzHfnR4JXNI/AAAAAAAAQjE/tYYA_oNqcfgnduPdeq_zalIKiHGW4JVbgCL0B/w346-h308/Pop-up-river-city-quan-7.jpg' width='500px'/>Liên hệ ngay để nhận giá tốt</a>. LH: 0946.27.4444 Mr Khương. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://river-city-quan7.com/' target='_blank'><img src='https://lh3.googleusercontent.com/-THm_kTsUSaI/VzHfnR4JXNI/AAAAAAAAQjE/tYYA_oNqcfgnduPdeq_zalIKiHGW4JVbgCL0B/w346-h308/Pop-up-river-city-quan-7.jpg' width='500px'/>Căn hộ river city</a>. LH: 0946.27.4444 Mr Khương. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
