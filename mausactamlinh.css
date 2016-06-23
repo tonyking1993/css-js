@@ -153,6 +153,7 @@ blockquote cite:before { content: "\2014 \2009"; }
     margin-top: 15px;
     padding: 8px;
     text-transform: uppercase;
+    font-weight: bold;
 }
 .footer .widget-content{line-height:21px}
 .footer ul{list-style:none;color:#777;margin:0;padding:0}
@@ -171,7 +172,7 @@ left:0;
 }
 .footer a:link,.footer li a:visited{color:#999;text-decoration:none;font-weight:600;position:relative;text-indent:-18px;}
 .footer li a:hover{color:#ccc}
-#credit {background:#fff568;font:1.2em Fujiyama;color:#fff;font-weight: bold;width:100%;overflow:hidden;clear:both;padding:20px 0 0px 0;line-height:18px;border-top:1px solid #fff568;text-align:center;text-transform:uppercase;position:relative}
+#credit {background:#ff0000;font:1.2em Fujiyama;color:#fff;font-weight: bold;width:100%;overflow:hidden;clear:both;padding:20px 0 0px 0;line-height:18px;border-top:1px solid #fff568;text-align:center;text-transform:uppercase;position:relative}
 #credit a {color:#ff0000 !important;text-decoration:none}
 #credit a:hover {color:#448ccb !important;text-decoration:none}
 #credits{background:#1e1e1e;font:1.2em Fujiyama;color:#777;width:100%;overflow:hidden;clear:both;padding:20px 0 0px 0;line-height:18px;border-top:1px solid #333;text-align:center;text-transform:uppercase}
