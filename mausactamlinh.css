@@ -26,7 +26,7 @@ h2.date-header{display:none}
 #top-menu ul{list-style: none;display:inline}
 #top-menu ul li{float:left;}
 #top-menu ul li a{background: url(http://4.bp.blogspot.com/-7CxYBombY1s/Uc1rtH7i3XI/AAAAAAAAEp8/zi-NHhayMkY/s10/nav-divider.png) repeat-y right;line-height:20px;padding:15px 20px;color:#ff0000;text-transform:uppercase;display:block;text-decoration:none;text-shadow: 0 1px 0 rgba(0,0,0,0.2);-webkit-transition: all 0.3s ease-in;-moz-transition: all 0.3s ease-in;-o-transition: all 0.3s ease-in;transition: all 0.3s ease-in; white-space: nowrap;}
-#top-menu ul li a:hover{background:#ff0000;color:#fff568}
+#top-menu ul li a:hover{background:#0078dc;color:#fff568}
 #menu{background:#f0f0f0;border:1px solid #ddd;color:#ddd;height:35px;font-family:'Fujiyama', Arial, sans-serif;width:1090px;margin:0 auto;}
 #menu ul,#menu li{margin:0 auto;padding:0 0;list-style:none}
 #menu ul{height:35px;width:1100px}
@@ -143,11 +143,11 @@ blockquote cite:before { content: "\2014 \2009"; }
 .footer{float:left;width:31%;margin:10px}
 .footer .widget{margin-bottom:30px}
 .footer h2 {
-    background: -webkit-linear-gradient(left,rgba(255, 255, 255, 0),rgba(0, 153, 180, 1)); /*Safari 5.1-6*/
-	background: -o-linear-gradient(left,rgba(255, 255, 255, 0),rgba(0, 153, 180, 1)); /*Opera 11.1-12*/
-	background: -moz-linear-gradient(left,rgba(255, 255, 255, 0),rgba(0, 153, 180, 1)); /*Fx 3.6-15*/
-	background: linear-gradient(to left, rgba(255, 255, 255, 0), rgba(0, 153, 180, 1)); /*Standard*/
-    color: #000;
+    background: -webkit-linear-gradient(to left, #fff568, #fff568); /*Safari 5.1-6*/
+	background: -o-linear-gradient(to left, #fff568, #fff568); /*Opera 11.1-12*/
+	background: -moz-linear-gradient(to left, #fff568, #fff568); /*Fx 3.6-15*/
+	background: linear-gradient(to left, #fff568, #fff568); /*Standard*/
+    color: #ff0000;
     font: 14px Fujiyama;
     margin-bottom: 8px;
     margin-top: 15px;
@@ -171,9 +171,9 @@ left:0;
 }
 .footer a:link,.footer li a:visited{color:#999;text-decoration:none;font-weight:600;position:relative;text-indent:-18px;}
 .footer li a:hover{color:#ccc}
-#credit {background:#0088b2;font:1.2em Fujiyama;color:#fff;width:100%;overflow:hidden;clear:both;padding:20px 0 0px 0;line-height:18px;border-top:1px solid #0dd;text-align:center;text-transform:uppercase;position:relative}
-#credit a {color:#ff1 !important;text-decoration:none}
-#credit a:hover {color:#fe2 !important;text-decoration:none}
+#credit {background:#fff568;font:1.2em Fujiyama;color:#fff;font-weight: bold;width:100%;overflow:hidden;clear:both;padding:20px 0 0px 0;line-height:18px;border-top:1px solid #fff568;text-align:center;text-transform:uppercase;position:relative}
+#credit a {color:#ff0000 !important;text-decoration:none}
+#credit a:hover {color:#448ccb !important;text-decoration:none}
 #credits{background:#1e1e1e;font:1.2em Fujiyama;color:#777;width:100%;overflow:hidden;clear:both;padding:20px 0 0px 0;line-height:18px;border-top:1px solid #333;text-align:center;text-transform:uppercase}
 #credits a{color:#999;text-decoration:none;display:none}
 #credits a:hover{color:#777;text-decoration:none}
