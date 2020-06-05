@@ -2,7 +2,7 @@ function FSAddOriginalLink(){
     var body_element = document.getElementsByTagName('body')[0];
     var selection;
     selection = window.getSelection();
-    var pagelink = "<br/><br/>Liên Hệ Admin website: 0946 27 4444. Website: <a href='http://river-city-quan7.com'>http://river-city-quan7.com/"+document.location.pathname+"</a>";
+    var pagelink = "<br/><br/>Liên Hệ Admin website: 090.900.9704. Website: <a href='https://phukienbaseus.vn/'>https://phukienbaseus.vn"+document.location.pathname+"</a>";
     var copytext = pagelink;
     var newdiv = document.createElement('div');
     newdiv.style.position='absolute';
