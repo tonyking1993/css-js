@@ -2,7 +2,7 @@ function FSAddOriginalLink(){
     var body_element = document.getElementsByTagName('body')[0];
     var selection;
     selection = window.getSelection();
-    var pagelink = "<br/><br/>Liên Hệ Kỹ Sư website: 090.666.8400. Website: <a href='http://thietkewebre.info/thiet-ke-web-re'>THIẾT KẾ WEB TRỌN GÓI GIÁ RẺ</a>"+document.location.pathname+"</a>";
+    var pagelink = "Liên Hệ Kỹ Sư website: 090.666.8400 | Gmail:vanthetung1805@gmail.com | Website:thietkewebre.info "+document.location.pathname+"</a>";
     var copytext = pagelink;
     var newdiv = document.createElement('div');
     newdiv.style.position='absolute';
